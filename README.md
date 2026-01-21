@@ -17,6 +17,9 @@ Install all requirements with `pip install -r requirements.txt`
 # Dataset Preparation
 
 The dataset is included in this repository within the `dataset/` directory. No manual download is required.
+You can download the dataset from the cloud drive.
+Link: https://pan.quark.cn/s/c31bc15ff267
+Password: V2Cp
 
 ## Directory Structure
 Ensure your project directory looks like this:
